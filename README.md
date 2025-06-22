@@ -9,13 +9,13 @@ This is a beginner-friendly to-do list web app that helps you organize your dail
 ✔ Mobile-friendly - Works well on phones, tablets, and computers
 
 # 🛠️ Technologies Used
-#### HTML5 for the basic structure
+### HTML5 for the basic structure
 
-#### Bootstrap 5 - For responsive and beautiful styling
+### Bootstrap 5 - For responsive and beautiful styling
 
-#### Font Awesome - For intuitive icons 
+### Font Awesome - For intuitive icons 
 
-#### JavaScript for functionality
+### JavaScript for functionality
 
 # 🚀 How to Use
 Adding a task:
