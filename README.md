@@ -10,8 +10,11 @@ This is a beginner-friendly to-do list web app that helps you organize your dail
 
 # 🛠️ Technologies Used
 HTML5 for the basic structure
+
 Bootstrap 5 - For responsive and beautiful styling
+
 Font Awesome - For intuitive icons 
+
 JavaScript for functionality
 
 # 🚀 How to Use
